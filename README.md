@@ -1,4 +1,6 @@
-### Hi there 👋
+I'm a Graphic Designer / Web Developer that not only loves to draw but also to be creative by having great ideas for developing meticulous projects with up to date softwares & code languages.
+
+In addition I have insatiable thirst for knowledge. When problem solving I learn more from mistakes. Always up for new challanges that will help me improve my creativity and acquire new computer skills.
 
 <!--
 **Reynaldo-AlvarezJr/Reynaldo-AlvarezJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
