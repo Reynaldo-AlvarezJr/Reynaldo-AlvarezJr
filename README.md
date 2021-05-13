@@ -1,4 +1,4 @@
-
+![Portfolio_image_gh copy](https://user-images.githubusercontent.com/57510946/118059078-41a73000-b355-11eb-854b-c8e096fab23d.jpg)
 
 I'm a Graphic Designer / Web Developer that not only loves to draw but also to be creative by having great ideas for developing meticulous projects with up to date softwares & code languages.
 
