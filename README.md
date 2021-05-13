@@ -9,7 +9,7 @@ Skills:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reynaldo-AlvarezJr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Reynaldo-AlvarezJr)](https://github.com/anuraghazra/github-readme-stats)
 
-You can take a look at my [linkedin](https://www.linkedin.com/in/reynaldoalvarezjr/) & my portfolio [Portfolio](http://Reynaldo-AlvarezJr-app.netlify.app)
+You can take a look at my [linkedin](https://www.linkedin.com/in/reynaldoalvarezjr/) & my [Portfolio](http://Reynaldo-AlvarezJr-app.netlify.app)
 
 
 
