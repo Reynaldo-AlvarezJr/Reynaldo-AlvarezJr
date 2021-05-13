@@ -1,8 +1,9 @@
 ![Portfolio_image_gh copy](https://user-images.githubusercontent.com/57510946/118059078-41a73000-b355-11eb-854b-c8e096fab23d.jpg)
 
 I'm a Graphic Designer / Web Developer that not only loves to draw but also to be creative by having great ideas for developing meticulous projects with up to date softwares & code languages.
-
 In addition I have insatiable thirst for knowledge. When problem solving I learn more from mistakes. Always up for new challanges that will help me improve my creativity and acquire new computer skills.
+
+
 
 <!--
 **Reynaldo-AlvarezJr/Reynaldo-AlvarezJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
