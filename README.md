@@ -1,7 +1,7 @@
 ![Portfolio_image_gh copy](https://user-images.githubusercontent.com/57510946/118076796-7bd5f900-b378-11eb-826c-ade921b307f5.jpg)
 
-I'm a Graphic Designer / Web Developer that not only loves to draw but also to be creative by having great ideas for developing meticulous projects with up to date softwares & code languages.
-In addition I have insatiable thirst for knowledge. When problem solving I learn more from mistakes. Always up for new challanges that will help me improve my creativity and acquire new computer skills.
+**I'm a Graphic Designer / Web Developer that not only loves to draw but also to be creative by having great ideas for developing meticulous projects with up to date softwares & code languages.
+In addition I have insatiable thirst for knowledge. When problem solving I learn more from mistakes. Always up for new challanges that will help me improve my creativity and acquire new computer skills.**
 
 
 
