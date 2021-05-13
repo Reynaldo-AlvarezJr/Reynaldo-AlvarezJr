@@ -3,6 +3,9 @@
 **I'm a Graphic Designer / Web Developer that not only loves to draw but also to be creative by having great ideas for developing meticulous projects with up to date softwares & code languages.
 In addition I have insatiable thirst for knowledge. When problem solving I learn more from mistakes. Always up for new challanges that will help me improve my creativity and acquire new computer skills.**
 
+Skills
+*💻 HTML / *📝JavaScript / *📘CSS / *🖍SASS / *⚛REACT / *🐍Python / *📷Photoshop / *🖋Illustrator / *🧾Indesign
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reynaldo-AlvarezJr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Reynaldo-AlvarezJr)](https://github.com/anuraghazra/github-readme-stats)
 
