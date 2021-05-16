@@ -11,8 +11,6 @@ Skills:
 
 You can take a look at my [linkedin](https://www.linkedin.com/in/reynaldoalvarezjr/) & my [Portfolio](http://Reynaldo-AlvarezJr-app.netlify.app)
 
-|
-
 
 Contact: 📧 **Reynaldo_Alvarezjr@Outlook.com**
 
