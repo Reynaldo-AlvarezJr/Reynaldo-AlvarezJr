@@ -10,7 +10,11 @@ Skills:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Reynaldo-AlvarezJr)](https://github.com/anuraghazra/github-readme-stats)
 
 You can take a look at my [linkedin](https://www.linkedin.com/in/reynaldoalvarezjr/) & my [Portfolio](http://Reynaldo-AlvarezJr-app.netlify.app)
-Contact: 📧 **Reynaldo_Alvarezjr@Outlook.com
+
+|
+
+
+Contact: 📧 **Reynaldo_Alvarezjr@Outlook.com**
 
 
 
